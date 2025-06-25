@@ -1,0 +1,54 @@
+
+categories:
+  - name: Defi
+    subcategories:
+      - name: Borrowing / Lending
+        items:
+          - name: Bonzo Finance
+            description: >-
+              Bonzo Finance is an open source, non-custodial lending & borrowing protocol on Hedera.
+            homepage_url: https://bonzo.finance/
+            project: graduated
+            repo_url: https://github.com/Bonzo-Labs/bonzo-finance-contracts 
+            logo: bonzo.svg
+  - name: Sustainability
+    subcategories:
+      - name: Infrastructure
+        items:
+          - name: Envision Blockchain
+            description: >-
+              The Guardian is an innovative open-source platform that streamlines the creation, management, and verification of digital environmental
+              assets. It leverages a customizable Policy Workflow Engine and Web3 technology to ensure transparent and fraud-proof operations, making 
+              it a key tool for transforming sustainability practices and carbon markets.
+            homepage_url: https://guardianservice.app/login
+            project: graduated
+            repo_url: https://github.com/hashgraph/guardian
+            logo: mgs.svg
+      - name: Carbon Offsets
+        items:
+          - name: Dovu
+            description: >-
+              Configuration based Guardian policy consumption and management for dovu platform.
+            homepage_url: https://dovu.earth/en/dovuos/
+            project: graduated
+            repo_url: https://github.com/dovuofficial/guardian-php-sdk
+            logo: dovu.svg
+  - name: Decentralized Infrastructure
+    subcategories: 
+      - name: Infrastructure
+        items:
+          - name: Hgraph
+            description: >-
+              Custom solutions for startups, enterprise and government. 
+            homepage_url: https://hgraph.com/
+            project: graduated
+            repo_url: https://github.com/hgraph-io/hgraph-docs
+            logo: hgraph.svg
+  - name: LF Decentralized Trust CSPs
+    subcategories:
+      - name: Test Placeholder
+        items:
+          - name: I am only a test
+            description: very short description
+            homepage_url: https://hedera.foundation
+            logo: foundation.svg
