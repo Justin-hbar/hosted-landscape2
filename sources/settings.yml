@@ -1,6 +1,7 @@
 
 foundation: Hbar
 url: https://justin-hbar.github.io/hosted-landscape2/
+base_path: /hosted-landscape2/
 
 colors:
   color1: "rgba(0, 107, 204, 1)"
