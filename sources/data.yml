@@ -10,7 +10,7 @@ categories:
             homepage_url: https://bonzo.finance/
             project: graduated
             repo_url: https://github.com/Bonzo-Labs/bonzo-finance-contracts 
-            logo: bonzo.svg
+            logo: logos/bonzo.svg
   - name: Sustainability
     subcategories:
       - name: Infrastructure
@@ -23,7 +23,7 @@ categories:
             homepage_url: https://guardianservice.app/login
             project: graduated
             repo_url: https://github.com/hashgraph/guardian
-            logo: mgs.svg
+            logo: logos/mgs.svg
       - name: Carbon Offsets
         items:
           - name: Dovu
